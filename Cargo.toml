@@ -1,5 +1,5 @@
 [package]
-name = "archimedes-async"
+name = "egui-async-reqwest-tokio-alpaca"
 version = "0.1.0"
 edition = "2021"
 
